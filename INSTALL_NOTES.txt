@@ -1,0 +1,3 @@
+sudo apt-get install libcgal-dev libgsl-dev libboost-filesystem-dev libboost-system-dev
+
+add as "-lgmp" CFLAG
